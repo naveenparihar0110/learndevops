@@ -7,7 +7,7 @@
 #Version: v1
 #######################
 
-echo "my name is naveen"
+echo "my name is naveenp"
 
 set -x #debug mode
 set -e #exit the script when error
